@@ -1,8 +1,8 @@
-# 💫 About Me:
+ 💫 About Me:
 # Hola Soy Mitzi Arrieta Ignacio<br><br>## About Me  <br>Soy estudiante de **Desarrollo de Software Multiplataforma**, apasionada por la tecnología y el diseño de wireframe.  <br>Me encanta poder crear y diseñar proyectos que me ayuden a mejorar mis habilidades y aportar soluciones útiles.  <br><br>##  I’m currently working on  <br>- Proyectos escolares que fortalecen mis conocimientos en **Java, HTML y CSS**  <br>- Mejorar mis prácticas de programación en **IntelliJ IDEA**  <br>- Mejorar mis prácticas de programación en **Android Studio**<br><br>#  I’m looking to collaborate on  <br>- una aplicacion de escritorio para gestion de finanzas<br>- Proyectos de desarrollo web y multiplataforma  <br>- Ideas creativas que combinen diseño y funcionalidad  <br><br>##  I’m looking for help with  <br>- Buenas prácticas en Java  <br>- Optimización de código y patrones de diseño  <br><br>## 🌱 I’m currently learning  <br>- Desarrollo de interfaces con HTML y CSS  <br>- Conceptos avanzados de programación orientada a objetos en Java  <br><br>## 💬 Ask me about  <br>- Mi experiencia como estudiante de desarrollo multiplataforma  <br>- Consejos sobre organización y estudio en programación  <br><br>## ⚡ Fun fact  <br>Me encanta ver **documentales de cualquier tema**, hacer **postres**  y salir a **correr con mi perro** 🐕🏃‍♀️  <br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mittt.ai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mitzyarrieta06@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,13 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=MYAIMV&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MYAIMV&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MYAIMV&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MYAIMV&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
